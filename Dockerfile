@@ -1,5 +1,5 @@
 FROM node:18.15
 COPY index.js package.json /app/
 WORKDIR /app
-RUN npm ci && npm clean cache --force
+RUN npm install 
 CMD node index.js

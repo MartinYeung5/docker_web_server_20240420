@@ -1,7 +1,7 @@
 {
-  "name": "simple-express-server",
+  "name": "web_server",
   "version": "1.0.0",
-  "description": "A simple Expressjs Web server",
+  "description": "Web Server",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Larry850806/simple-express-server.git"
+    "url": ""
   },
   "license": "MIT",
-  "author": "Larry Lu",
+  "author": "Martin Yeung",
   "dependencies": {
     "express": "^4.16.2"
   }
